@@ -15,7 +15,7 @@
 #include <zmk/backlight.h>
 #include <zmk/activity.h>
 #include "trackpad_led.h"
-#include "a320_0x3B.h"
+#include "a320.h"
 
 #define HID_INDICATORS_CAPS_LOCK (1 << 1)
 
